@@ -1,0 +1,9 @@
+name: default_config_annotation
+description: >
+  Annotations for the configuration code-generator.
+  This package does nothing without default_config_generator too.
+version: 0.0.1
+homepage: https://github.com/lxm-flutter/default_config_annotation
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
